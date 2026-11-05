@@ -25,7 +25,7 @@ Most of what I build sits where machine learning meets ordinary software: FastAP
 | [LeafLens](https://github.com/devSaksham/LeafLens) | The mobile version: on-device TFLite diagnosis, treatment plans and a Gemini assistant, in English and Hindi | Flutter, TFLite, Supabase |
 | [session-based-recommendation](https://github.com/devSaksham/session-based-recommendation-system-latest) | GRU vs KAN-GRU for next-item recommendation on YooChoose, with KAN layers written from scratch | PyTorch |
 | [PhoniX](https://github.com/devSaksham/PhoniX) | Hackathon team project: flags deepfake voices during live calls | Flutter, TensorFlow, Firebase |
-| [hogwarts-portfolio](https://github.com/devSaksham/hogwarts-portfolio) | My portfolio as a walk through Hogwarts, with a command-line "Spell Class" mini-game | HTML, CSS, JS |
+| [Portfolius](https://github.com/devSaksham/portfolius) · [live](https://devsaksham.github.io/portfolius/) | My portfolio as a walk through Hogwarts, with a command-line "Spell Class" mini-game | HTML, CSS, JS |
 | [Launch-Cadence](https://github.com/devSaksham/Launch-Cadence) | Terminal app for booking rocket launch slots, with admin and customer roles | Python |
 
 ### Tools I use
